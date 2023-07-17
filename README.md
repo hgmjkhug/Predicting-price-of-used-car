@@ -1,5 +1,6 @@
-Machine Learning Project about Predicting price of used car using ML and DL algos
-Open Command Promt window, then type:
+Machine Learning Project about Predicting price of used car using ML and DL algos   
+
+First, open Command Promt window, then type:
 1. pip install flask
 2. pip install pandas
 3. pip install scikit-learn
