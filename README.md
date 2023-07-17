@@ -6,5 +6,5 @@ First, open Command Promt window, then type:
 3. pip install scikit-learn
 4. pip install numpy
 5. pip install matplotlib
-6. pip install seaborn
+6. pip install seaborn  
 After installing, run the command "python main_appp.py"
